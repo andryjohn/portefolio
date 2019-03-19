@@ -36,7 +36,7 @@ img{
 .home img{
 	width: 100%;
 	-webkit-filter: grayscale(75%) contrast(100%);
-	filter:  grayscale(45%) contrast(110%) brightness(65%);
+	filter:  grayscale(50%) contrast(110%) brightness(65%);
 
 }
 .folio img{
